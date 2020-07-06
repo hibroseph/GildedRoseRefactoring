@@ -1,0 +1,10 @@
+C:\Users\iwill\programming\GildedRose\src\GildedRose.Console\bin\Debug\GildedRose.Console.exe.config
+C:\Users\iwill\programming\GildedRose\src\GildedRose.Console\bin\Debug\GildedRose.Console.exe
+C:\Users\iwill\programming\GildedRose\src\GildedRose.Console\bin\Debug\GildedRose.Console.pdb
+C:\Users\iwill\programming\GildedRose\src\GildedRose.Console\bin\Debug\Inventory.dll
+C:\Users\iwill\programming\GildedRose\src\GildedRose.Console\bin\Debug\Inventory.pdb
+C:\Users\iwill\programming\GildedRose\src\GildedRose.Console\obj\Debug\GildedRose.Console.csprojAssemblyReference.cache
+C:\Users\iwill\programming\GildedRose\src\GildedRose.Console\obj\Debug\GildedRose.Console.csproj.CoreCompileInputs.cache
+C:\Users\iwill\programming\GildedRose\src\GildedRose.Console\obj\Debug\GildedRose.Console.csproj.CopyComplete
+C:\Users\iwill\programming\GildedRose\src\GildedRose.Console\obj\Debug\GildedRose.Console.exe
+C:\Users\iwill\programming\GildedRose\src\GildedRose.Console\obj\Debug\GildedRose.Console.pdb

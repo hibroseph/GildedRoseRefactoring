@@ -1,0 +1,8 @@
+C:\Users\iwill\programming\GildedRose\Inventory\bin\Debug\netstandard2.0\GildedRose.Inventory.deps.json
+C:\Users\iwill\programming\GildedRose\Inventory\bin\Debug\netstandard2.0\GildedRose.Inventory.dll
+C:\Users\iwill\programming\GildedRose\Inventory\bin\Debug\netstandard2.0\GildedRose.Inventory.pdb
+C:\Users\iwill\programming\GildedRose\Inventory\obj\Debug\netstandard2.0\GildedRose.Inventory.csproj.CoreCompileInputs.cache
+C:\Users\iwill\programming\GildedRose\Inventory\obj\Debug\netstandard2.0\GildedRose.Inventory.AssemblyInfoInputs.cache
+C:\Users\iwill\programming\GildedRose\Inventory\obj\Debug\netstandard2.0\GildedRose.Inventory.AssemblyInfo.cs
+C:\Users\iwill\programming\GildedRose\Inventory\obj\Debug\netstandard2.0\GildedRose.Inventory.dll
+C:\Users\iwill\programming\GildedRose\Inventory\obj\Debug\netstandard2.0\GildedRose.Inventory.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kAvSuuDZ2+04xCo2vQRrIzgIpeoUOvMbFnrQjffN7Q7pNFrREuYr1UdBWCZbmY9KJk8yxNEHmVxOqEEreHw6KA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iwill\\programming\\GildedRose\\Inventory\\Inventory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iwill\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\iwill\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
