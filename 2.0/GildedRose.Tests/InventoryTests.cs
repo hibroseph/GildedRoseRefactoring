@@ -1,12 +1,12 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace GildedRose.Tests
+namespace GildedRose.InventoryTests
 {
     [TestClass]
     public class InventoryTests
     {
         [TestMethod]
-        public void TestMethod1()
+        public void TestInventory()
         {
         }
     }
