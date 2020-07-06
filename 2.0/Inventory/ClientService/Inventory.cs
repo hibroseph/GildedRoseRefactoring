@@ -4,6 +4,9 @@ using InventoryService.Common;
 
 namespace InventoryService.ClientService
 {
+    /// <summary>
+    /// Manipulate inventory.
+    /// </summary>
     public class Inventory
     {
         private List<Item> _items;
@@ -13,9 +16,25 @@ namespace InventoryService.ClientService
             _items = Items;
         }
 
-        public void AddItem(Item item)
+        /// <summary>
+        /// Adds an item to the inventory
+        /// </summary>
+        /// <param name="item">The item to be added</param>
+        /// <returns>The ID of the item added</returns>
+        public int AddItem(Item item)
         {
             _items.Add(item);
+
+            return _items.Count - 1;
+        }
+
+        /// <summary>
+        /// Returns an item of a specific id
+        /// </summary>
+        /// <param name="id">The id of the item to get</param>
+        public Item GetItem(int id)
+        {
+            return _items[id];
         }
 
         public int Size()

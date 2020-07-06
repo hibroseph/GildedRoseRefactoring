@@ -44,9 +44,32 @@ namespace GildedRose.InventoryTests
             Assert.AreEqual(10, _inventory.Size());
         }
 
+        [TestMethod]
+        public void TestQualityNeverNegative()
+        {
+            int id = _inventory.AddItem(GetNewItem("World's Best Mom Hat", 2, 2));
+
+            UpdateQualityXNumberOfDays(5);
+
+            Assert.AreEqual(0, _inventory.GetItem(id).Quality);
+        }
+
         private Item GetNewItem()
         {
             return new Item() { Name = "Cool Item", Quality = 5, SellIn = 20 };
+        }
+
+        private Item GetNewItem(string name, int quality, int sellIn)
+        {
+            return new Item() { Name = name, Quality = quality, SellIn = sellIn };
+        }
+
+        private void UpdateQualityXNumberOfDays(int days)
+        {
+            for (int i = 0; i < days; i++)
+            {
+                _inventory.UpdateQuality();
+            }
         }
     }
 }
