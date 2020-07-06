@@ -13,6 +13,16 @@ namespace InventoryService.ClientService
             _items = Items;
         }
 
+        public void AddItem(Item item)
+        {
+            _items.Add(item);
+        }
+
+        public int Size()
+        {
+            return _items.Count;
+        }
+
         public void UpdateQuality()
         {
             for (var i = 0; i < _items.Count; i++)
